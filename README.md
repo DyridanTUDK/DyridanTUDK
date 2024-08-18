@@ -12,6 +12,7 @@
 - ⚡ Fun fact **I like computational mathematics**
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/intj-man/" target="_blank"><h2>LinkedIn</h2></a>
 <p align="left">
 </p>
 
