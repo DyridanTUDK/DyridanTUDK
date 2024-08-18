@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alif Hassan Aunkur</h1>
-<h3 align="center">A passionate code and number theory enthusiast from Bangladesh.</h3>
+<h3 align="center">A passionate coder and math enthusiast from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dyridantudk&label=Profile%20views&color=0e75b6&style=flat" alt="dyridantudk" /> </p>
 
