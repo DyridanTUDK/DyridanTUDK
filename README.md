@@ -1,7 +1,7 @@
 # <div align="center">ALIF HASSAN AUNKUR</div>
 
 <div align="center">
-  <img src="./ChatGPT%20Image%20Apr%2021%2C%202026%2C%2012_33_35%20PM.png" alt="Alif Hassan Aunkur avatar" width="180" style="border-radius: 50%;" />
+  <img src="./devImg.png" alt="Alif Hassan Aunkur avatar" width="180" style="border-radius: 50%;" />
 </div>
 
 <div align="center">
