@@ -9,7 +9,7 @@
 ### Jr. Software Developer at Edutechs | CS Student at BRAC University
 
 <p>
-  <a href="https://komarev.com/ghpvc/?username=dyridantudk&label=PROFILE+VIEWS&color=111827&style=for-the-badge">
+  <a target="_blank" href="https://komarev.com/ghpvc/?username=dyridantudk&label=PROFILE+VIEWS&color=111827&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=dyridantudk&label=PROFILE+VIEWS&color=111827&style=for-the-badge" alt="Profile views" />
   </a>
   <a href="https://www.linkedin.com/in/alif-hassan-aunkur/">
