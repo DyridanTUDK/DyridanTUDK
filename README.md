@@ -1,7 +1,7 @@
 # <div align="center">ALIF HASSAN AUNKUR</div>
 
 <div align="center">
-  <img src="./devImg.png" alt="Alif Hassan Aunkur avatar" width="180" style="border-radius: 50%;" />
+  <img src="./ChatGPT%20Image%20Apr%2021%2C%202026%2C%2012_33_35%20PM.png" alt="Alif Hassan Aunkur avatar" width="180" style="border-radius: 50%;" />
 </div>
 
 <div align="center">
@@ -67,12 +67,37 @@ This is the part of my journey where ideas turn into products.
 
 ## Languages and Tools
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,nodejs,express,python,java,mysql,firebase,flask,git,figma&perline=9"
-    alt="Languages and tools"
-  />
-</p>
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=javascript,typescript,java,python,cpp,r&perline=8" alt="Languages" />
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=vite,react,nextjs,sass,tailwind&perline=8" alt="Frontend tools" />
+<br />
+<img src="https://img.shields.io/badge/TanStack-0F172A?style=for-the-badge&logo=reactquery&logoColor=FF4154" alt="TanStack" />
+<img src="https://img.shields.io/badge/shadcn/ui-111827?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=express,nodejs,flask,fastapi&perline=8" alt="Backend tools" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=firebase,mongodb,postgres,sqlite,supabase&perline=8" alt="Databases" />
+<br />
+<img src="https://img.shields.io/badge/Convex-0B0B0F?style=for-the-badge&logoColor=white" alt="Convex" />
+
+### Other Tools
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white" alt="Scrapy" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+<img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer" />
+
+### AI Tools
+<img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge" alt="Codex" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" alt="Cursor" />
+
+</div>
 
 ## Developer Energy
 
