@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### Jr. Software Developer at Edutechs | CSE Student at BRAC University
+### Jr. Software Developer at Edutechs | CS Student at BRAC University
 
 <p>
   <a href="https://komarev.com/ghpvc/?username=dyridantudk&label=PROFILE+VIEWS&color=111827&style=for-the-badge">
@@ -32,15 +32,15 @@
 Name        : Alif Hassan Aunkur
 Location    : Bangladesh
 Role        : Junior Software Developer at Edutechs
-Study       : Computer Science and Engineering at BRAC University
-Learning    : Next.js, Express.js, scalable full-stack workflows
-Fun Fact    : I enjoy computational mathematics
+Study       : Computer Science at BRAC University
+Learning    : Scalable full-stack workflows
+Fun Fact    : Computational Economics, Maths and Physics
 ```
 
 ## Current Focus
 
 - Working as a `Jr. Software Developer` at `Edutechs`
-- Studying `Computer Science and Engineering` at `BRAC University`
+- Studying `Computer Science ` at `BRAC University`
 - Learning and building with `Next.js`, `Express.js`, and modern web tooling
 - Exploring how clean UI, strong logic, and developer tooling fit together
 
