@@ -76,7 +76,7 @@ This is the part of my journey where ideas turn into products.
 <img src="https://skillicons.dev/icons?i=vite,react,nextjs,sass,tailwind&perline=8" alt="Frontend tools" />
 <br />
 <img src="https://img.shields.io/badge/TanStack-0F172A?style=for-the-badge&logo=reactquery&logoColor=FF4154" alt="TanStack" />
-<img src="https://img.shields.io/badge/shadcn/ui-111827?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
 
 ### Backend
 <img src="https://skillicons.dev/icons?i=express,nodejs,flask,fastapi&perline=8" alt="Backend tools" />
