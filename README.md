@@ -34,9 +34,9 @@ Location    : Bangladesh
 Study       : Computer Science at BRAC University
 Focus       : Full-stack systems, data-driven applications
 Interests   : Systems design, data, and applied mathematics
+```
 
 ## Connect With Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/intj-man/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Alif%20Hassan%20Aunkur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
