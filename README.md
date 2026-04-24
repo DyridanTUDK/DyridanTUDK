@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### Jr. Software Developer at Edutechs | CS Student at BRAC University
+### Software Engineer building scalable systems & clean user experiences
 
 <p>
   <a target="_blank" href="https://komarev.com/ghpvc/?username=dyridantudk&label=PROFILE+VIEWS&color=111827&style=for-the-badge">
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<p><strong>Building clean interfaces, useful systems, and math-friendly solutions from Bangladesh.</strong></p>
+<p><strong>Building real-world applications with a focus on scalability, usability, and clean architecture.</strong></p>
 
 </div>
 
@@ -29,30 +29,11 @@
 ## About Me
 
 ```txt
-Name        : Alif Hassan Aunkur
+Role        : Software Engineer (Junior) at Edutechs
 Location    : Bangladesh
-Role        : Junior Software Developer at Edutechs
 Study       : Computer Science at BRAC University
-Learning    : Scalable full-stack workflows
-Fun Fact    : Computational Economics, Maths and Physics
-```
-
-## Current Focus
-
-- Working as a `Jr. Software Developer` at `Edutechs`
-- Studying `Computer Science ` at `BRAC University`
-- Learning and building with `Next.js`, `Express.js`, and modern web tooling
-- Exploring how clean UI, strong logic, and developer tooling fit together
-
-## What We've Been Building
-
-This is the part of my journey where ideas turn into products.
-
-- Modern frontend experiences with responsive layouts and better visual polish
-- Full-stack app workflows using `Next.js`, `Node.js`, and `Express.js`
-- UI improvements, profile upgrades, and developer-facing refinements
-- Practical problem solving with code, iteration, and AI-assisted workflows
-- Projects that mix logic, usability, and a bit of creative experimentation
+Focus       : Full-stack systems, data-driven applications
+Interests   : Systems design, data, and applied mathematics
 
 ## Connect With Me
 
