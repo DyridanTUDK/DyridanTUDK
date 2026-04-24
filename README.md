@@ -28,66 +28,55 @@
 
 ## About Me
 
-```txt
 Role        : Software Engineer (Junior) at Edutechs
 Location    : Bangladesh
 Study       : Computer Science at BRAC University
 Focus       : Full-stack systems, data-driven applications
 Interests   : Systems design, data, and applied mathematics
-```
+
+I work on real-world software systems across multiple products, focusing on building scalable backends, intuitive interfaces, and maintainable codebases.
+
+---
+
+## Current Focus
+
+- Building and shipping production-level features across multiple applications  
+- Working with modern full-stack tools (Next.js, Node.js, Express.js)  
+- Improving system design, data flow, and application performance  
+- Exploring the intersection of software systems and data  
+
+---
+
+## What I Build
+
+- Full-stack applications with structured and scalable architecture  
+- Multi-user and role-based systems with clean data flow  
+- Interactive UIs with performance-focused design  
+- Tools and systems that balance usability, logic, and real-world constraints  
+
+---
 
 ## Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/intj-man/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Alif%20Hassan%20Aunkur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:alifhassanaunkur70@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-alifhassanaunkur70%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
 
-## Languages and Tools
+LinkedIn: https://www.linkedin.com/in/intj-man/  
+Email: alifhassanaunkur70@gmail.com  
 
-<div align="center">
+---
 
-### Languages
-<img src="https://skillicons.dev/icons?i=javascript,typescript,java,python,cpp,r&perline=8" alt="Languages" />
+## Core Stack
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=vite,react,nextjs,sass,tailwind&perline=8" alt="Frontend tools" />
-<br />
-<img src="https://img.shields.io/badge/TanStack-0F172A?style=for-the-badge&logo=reactquery&logoColor=FF4154" alt="TanStack" />
-<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+Languages: JavaScript, TypeScript, Python  
+Frontend: React, Next.js, Tailwind, TanStack, shadcn/ui  
+Backend: Node.js, Express, FastAPI  
+Databases: PostgreSQL, MongoDB, Firebase, Convex  
+Tools: Pandas, Matplotlib, Selenium, Puppeteer  
 
-### Backend
-<img src="https://skillicons.dev/icons?i=express,nodejs,flask,fastapi&perline=8" alt="Backend tools" />
+---
 
-### Databases
-<img src="https://skillicons.dev/icons?i=firebase,mongodb,postgres,sqlite,supabase&perline=8" alt="Databases" />
-<br />
-<img src="https://img.shields.io/badge/Convex-0B0B0F?style=for-the-badge&logoColor=white" alt="Convex" />
+## Developer Mindset
 
-### Other Tools
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
-<img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white" alt="Scrapy" />
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-<img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer" />
+systems > syntax  
+clarity > complexity  
+consistency > intensity  
 
-### AI Tools
-<img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge" alt="Codex" />
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" alt="Cursor" />
-
-</div>
-
-## Developer Energy
-
-<div align="center">
-
-```txt
-code + math + design sense + curiosity + consistency
-```
-
-<strong>I like building things that feel sharp, useful, and intentional.</strong>
-
-</div>
+I focus on building systems that are practical, scalable, and thoughtfully designed.
